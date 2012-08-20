@@ -120,9 +120,7 @@ ul li{
 }
 
 @media only screen and (max-device-width: 480px) {
-  #truck {
-    width: 320px;
-  }
+
   
   h2 {
     font-size: 15px;
